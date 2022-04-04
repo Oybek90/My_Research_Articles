@@ -11,3 +11,9 @@
 #### Impact Factor: 3.5
 #### Web of Science Core Collection: Science Citation Index Expanded (SCIE)
 #### Link: https://www.mdpi.com/1424-8220/22/3/1210
+
+## 3. Self-Loosening of a 3D-Printed Bolt by Using Three Different Materials under Cyclical Temperature Changes
+#### Journal: Applied Sciences
+#### Impact Factor: 2.7
+#### Web of Science Core Collection: Science Citation Index Expanded (SCIE)
+#### Link: https://www.mdpi.com/2076-3417/12/6/3001
